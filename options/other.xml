@@ -1,0 +1,209 @@
+<application>
+  <component name="DynamicPluginEnabler">
+    <trackers>
+      <map>
+        <entry key="25dCspEORoQdoaa7dMSmVj971On">
+          <value>
+            <ProjectPluginTracker />
+          </value>
+        </entry>
+        <entry key="25lmA5bn5ZhB7IvlPc2zOGyuB5c">
+          <value>
+            <ProjectPluginTracker />
+          </value>
+        </entry>
+        <entry key="27j3Y9wS7AhiJmMvwNkhxCs9bcK">
+          <value>
+            <ProjectPluginTracker />
+          </value>
+        </entry>
+        <entry key="28eCBpWUoF8dkwLjc5KeZvMrVPs">
+          <value>
+            <ProjectPluginTracker />
+          </value>
+        </entry>
+        <entry key="28eDH8BFzx6Fyzkn1fiz5amLm5p">
+          <value>
+            <ProjectPluginTracker />
+          </value>
+        </entry>
+        <entry key="28eqPht6FsiaFHCD7beqwKlTdwi">
+          <value>
+            <ProjectPluginTracker />
+          </value>
+        </entry>
+        <entry key="2COYriyhkHGQLmyDQmb3JRQx6BN">
+          <value>
+            <ProjectPluginTracker />
+          </value>
+        </entry>
+        <entry key="2COYwZWc9ZrG1eVZMAZhr8UF9KL">
+          <value>
+            <ProjectPluginTracker />
+          </value>
+        </entry>
+        <entry key="2JggxTkpsmMXuoCWqtHLCyBNI2e">
+          <value>
+            <ProjectPluginTracker />
+          </value>
+        </entry>
+        <entry key="2Jgj4VP0Odq79fryaUssg8DnFiy">
+          <value>
+            <ProjectPluginTracker />
+          </value>
+        </entry>
+        <entry key="2KJzHAQYl97w6IrUfyWFRSCMmRj">
+          <value>
+            <ProjectPluginTracker />
+          </value>
+        </entry>
+        <entry key="2LX04w8M4uV5oTpCI6OjxmGXlpm">
+          <value>
+            <ProjectPluginTracker />
+          </value>
+        </entry>
+        <entry key="2LX0XPGOFLOFMwSc60dDp5MKQEF">
+          <value>
+            <ProjectPluginTracker />
+          </value>
+        </entry>
+        <entry key="2M65hmD7a5GGyejSQneP2MdmMMp">
+          <value>
+            <ProjectPluginTracker />
+          </value>
+        </entry>
+        <entry key="2MEQvjEeAsNOwjjWMZdSr9aANKO">
+          <value>
+            <ProjectPluginTracker />
+          </value>
+        </entry>
+        <entry key="2MJ4CJv2WP46IeqrfBeuqioDlhW">
+          <value>
+            <ProjectPluginTracker />
+          </value>
+        </entry>
+      </map>
+    </trackers>
+  </component>
+  <component name="JdkInstallerHistory">
+    <option name="installedItems">
+      <installed-jdk>
+        <option name="fullText" value="Oracle OpenJDK 19.0.1" />
+        <option name="installDir" value="C:\Users\amit.singh5\.jdks\openjdk-19.0.1" />
+        <option name="javaHomeDir" value="C:\Users\amit.singh5\.jdks\openjdk-19.0.1" />
+        <option name="sha256" value="adb1a33c07b45c39b926bdeeadf800f701be9c3d04e0deb543069e5f09856185" />
+        <option name="url" value="https://download.java.net/java/GA/jdk19.0.1/afdd2e245b014143b62ccb916125e3ce/10/GPL/openjdk-19.0.1_windows-x64_bin.zip" />
+        <option name="versionText" value="19.0.1" />
+      </installed-jdk>
+    </option>
+  </component>
+  <component name="LangManager">
+    <option name="languageName" value="JAVA" />
+    <languageToProjectMap>
+      <entry key="JAVA" value="C:\Users\amit.singh5\AppData\Local\JetBrains\IdeaIC2021.3\demo\IdeaLearningProject" />
+    </languageToProjectMap>
+  </component>
+  <component name="NotRoamableUiSettings">
+    <option name="fontScale" value="1.0" />
+    <option name="fontSize" value="14" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="AFTER.DISTRACTION.MODE.ARE_GUTTER_ICONS_SHOWN" value="false" />
+    <property name="AFTER.DISTRACTION.MODE.ARE_LINE_NUMBERS_SHOWN" value="false" />
+    <property name="AFTER.DISTRACTION.MODE.EDITOR_TAB_PLACEMENT" value="0" />
+    <property name="AFTER.DISTRACTION.MODE.HIDE_TOOL_STRIPES" value="true" />
+    <property name="AFTER.DISTRACTION.MODE.IS_FOLDING_OUTLINE_SHOWN" value="false" />
+    <property name="AFTER.DISTRACTION.MODE.IS_INDENT_GUIDES_SHOWN" value="false" />
+    <property name="AFTER.DISTRACTION.MODE.IS_RIGHT_MARGIN_SHOWN" value="false" />
+    <property name="AFTER.DISTRACTION.MODE.IS_WHITESPACES_SHOWN" value="false" />
+    <property name="AFTER.DISTRACTION.MODE.SHOW_BREADCRUMBS" value="false" />
+    <property name="AFTER.DISTRACTION.MODE.SHOW_MAIN_TOOLBAR" value="false" />
+    <property name="AFTER.DISTRACTION.MODE.SHOW_METHOD_SEPARATORS" value="false" />
+    <property name="AFTER.DISTRACTION.MODE.SHOW_NAVIGATION_BAR" value="false" />
+    <property name="AFTER.DISTRACTION.MODE.SHOW_NEW_MAIN_TOOLBAR" value="false" />
+    <property name="AFTER.DISTRACTION.MODE.SHOW_STATUS_BAR" value="false" />
+    <property name="BEFORE.DISTRACTION.MODE.ARE_GUTTER_ICONS_SHOWN" value="true" />
+    <property name="BEFORE.DISTRACTION.MODE.ARE_LINE_NUMBERS_SHOWN" value="true" />
+    <property name="BEFORE.DISTRACTION.MODE.EDITOR_TAB_PLACEMENT" value="1" />
+    <property name="BEFORE.DISTRACTION.MODE.HIDE_TOOL_STRIPES" value="false" />
+    <property name="BEFORE.DISTRACTION.MODE.IS_FOLDING_OUTLINE_SHOWN" value="true" />
+    <property name="BEFORE.DISTRACTION.MODE.IS_INDENT_GUIDES_SHOWN" value="true" />
+    <property name="BEFORE.DISTRACTION.MODE.IS_RIGHT_MARGIN_SHOWN" value="true" />
+    <property name="BEFORE.DISTRACTION.MODE.IS_WHITESPACES_SHOWN" value="false" />
+    <property name="BEFORE.DISTRACTION.MODE.SHOW_BREADCRUMBS" value="true" />
+    <property name="BEFORE.DISTRACTION.MODE.SHOW_MAIN_TOOLBAR" value="false" />
+    <property name="BEFORE.DISTRACTION.MODE.SHOW_METHOD_SEPARATORS" value="false" />
+    <property name="BEFORE.DISTRACTION.MODE.SHOW_NAVIGATION_BAR" value="true" />
+    <property name="BEFORE.DISTRACTION.MODE.SHOW_NEW_MAIN_TOOLBAR" value="false" />
+    <property name="BEFORE.DISTRACTION.MODE.SHOW_STATUS_BAR" value="true" />
+    <property name="CWM_LOGGING_VERSION" value="1" />
+    <property name="CommitChangeListDialog.DETAILS_SPLITTER_PROPORTION_2" value="0.60310733" />
+    <property name="FileColorsForProjectViewEnabled" value="true" />
+    <property name="FileColorsForTabsEnabled" value="true" />
+    <property name="FileTemplates.SelectedTemplate" value="HTML File" />
+    <property name="FindSplitterProportion" value="0.32972974" />
+    <property name="InstalledPluginsSearchHistory" value="save&#10;sav&#10;sa&#10;s" />
+    <property name="JUnitSupport.hidePassedTests" value="false" />
+    <property name="LayoutCode.codeCleanup" value="true" />
+    <property name="LayoutCode.optimizeImports" value="true" />
+    <property name="LayoutCode.processChangedText" value="false" />
+    <property name="LayoutCode.rearrangeEntries" value="true" />
+    <property name="LayoutCode.rearrangeEntriesJava" value="true" />
+    <property name="LayoutCode.rearrangeEntriesXML" value="false" />
+    <property name="MarketplacePluginsSearchHistory" value="save" />
+    <property name="MemberChooser.copyJavadoc" value="false" />
+    <property name="MemberChooser.showClasses" value="true" />
+    <property name="NextRunPlatformUpdateBuild" value="IC-223.8617.56/2022.3.2" />
+    <property name="NextRunPlatformUpdateVersion" value="2022.3.2" />
+    <property name="NonModalCommitCustomization.IsApplied" value="true" />
+    <property name="SettingsSearchHistory" value="Live&#10;Post&#10;Font&#10;Save&#10;plug" />
+    <property name="appcds.runOnSecondStart" value="IC-213.7172.25-e8f00e22504abb4f5e81eda1592a5c04fd6f4fe8a50ee2520c63b664b9682713" />
+    <property name="build.toolwindow.Build Output.selection.state" value="com.intellij.build.BuildTreeConsoleView" />
+    <property name="build.toolwindow.Sync.selection.state" value="com.intellij.build.BuildTreeConsoleView" />
+    <property name="build.toolwindow.run.selection.state" value="com.intellij.build.BuildTreeConsoleView" />
+    <property name="bundled.plugins.list.saved.version" value="IC-213.7172.25" />
+    <property name="com.intellij.openapi.roots.ui.configuration.TabbedModuleEditor.selectedEditor" value="Dependencies" />
+    <property name="create.project.preferred.importer" value="Maven" />
+    <property name="debugger.smart.chooser.counter" value="3" />
+    <property name="decompiler.legal.notice.accepted" value="true" />
+    <property name="defaultJdkConfigured" value="true" />
+    <property name="eclipse.projects.detected" value="" />
+    <property name="file.chooser.recent.files" value="D:/IdeaProjects&#10;D:/IdeaProjects/khatabook&#10;D:/IdeaProjects/CoreJava/Algorithm&#10;D:/IdeaProjects/CoreJava&#10;C:/Program Files/Java/jdk-17.0.2/bin/javac.exe&#10;D:/&#10;C:/Users/amit.singh5/IdeaProjects/SpringBoot4/spring-cloud-config-server&#10;C:/Users/amit.singh5/IdeaProjects/SpringBoot4/limit-service" />
+    <property name="file.colors.enable.non.project" value="" />
+    <property name="file.colors.enable.tests" value="" />
+    <property name="file.gist.reindex.count" value="699" />
+    <property name="fileTypeChangedCounter" value="11" />
+    <property name="fileTypeDetectors" value="com.android.tools.idea.profilers.capture.MemoryCaptureFileType$Detector:com.android.tools.idea.sqlite.fileType.SqliteFileTypeDetector:com.intellij.ide.scratch.ScratchFileServiceImpl$Detector:org.jetbrains.plugins.textmate.TextMateFileType$TextMateFileDetector" />
+    <property name="got.it.tooltip.cwm.invitation.notification" value="1" />
+    <property name="got.it.tooltip.extract.method.gotit.navigate" value="1" />
+    <property name="got.it.tooltip.reader.mode.got.it" value="1" />
+    <property name="got.it.tooltip.reset.lesson.got.it" value="1" />
+    <property name="got.it.tooltip.terminal.smart_command_execution" value="1" />
+    <property name="gotit.previous.run" value="IC-213.6777.52" />
+    <property name="ide.memory.adjusted" value="true" />
+    <property name="ide.updates.whats.new.shown.for" value="213" />
+    <property name="ift.learning.panel.opened.in" value="213.6777.52" />
+    <property name="ignore.virus.scanning.warn.message" value="true" />
+    <property name="installed.kotlin.plugin.version" value="213-1.5.10-release-949-IJ7172.25" />
+    <property name="jdk.selected.JAVA_MODULE" value="openjdk-19" />
+    <property name="kotlin.lastUpdateCheck" value="1676023187717" />
+    <property name="last.imported.location" value="D:/IdeaProjects/CoreJava/Algorithm" />
+    <property name="last_opened_file_path" value="D:/IdeaProjects" />
+    <property name="packagesearch.endpoint.url.fulltext" value="https://package-search.services.jetbrains.com/api/search/idea/fulltext" />
+    <property name="packagesearch.endpoint.url.suggest" value="https://package-search.services.jetbrains.com/api/search/idea/suggest" />
+    <property name="packagesearch.status.updated.ts" value="1677075071756" />
+    <property name="project.wizard.group" value="Spring Boot/Cloud Dataflow Initializr" />
+    <property name="project.wizard.template" value="Multi-module Project" />
+    <property name="registry.to.advanced.settings.migration.build" value="IC-213.7172.25" />
+    <property name="second.reformat.confirmed" value="true" />
+    <property name="settings.code.style.selected.tab.EditorConfig" value="Wrapping and Braces" />
+    <property name="settings.code.style.selected.tab.JAVA" value="Code Generation" />
+    <property name="spring.assinstant.initializr.last.known.server.url" value="https://start.spring.io" />
+    <property name="tasks.pass.word.conversion.enforced" value="true" />
+  </component>
+  <component name="TerminalCommandHistoryManager">
+    <command-history-files>
+      <command-history-file filename="khatabook-history1" project-path="D:/IdeaProjects/khatabook" last-access-time="1677329539606" />
+    </command-history-files>
+  </component>
+</application>

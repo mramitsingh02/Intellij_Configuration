@@ -1,0 +1,93 @@
+<application>
+  <component name="ShownTips">
+    <option name="shownTips">
+      <map>
+        <entry key="AnnotationsAndDiffs.html" value="1669604746000" />
+        <entry key="Antivirus.html" value="1667367764140" />
+        <entry key="CamelHumpsInCodeCompletion.html" value="1669604765047" />
+        <entry key="ChangeSignatureAfterMovingParameters.html" value="1649819694123" />
+        <entry key="ChangeSorting.html" value="1669558412612" />
+        <entry key="CheckRegExp.html" value="1658060360542" />
+        <entry key="ClipboardStack.html" value="1652965289625" />
+        <entry key="CloseOthers.html" value="1663559426463" />
+        <entry key="CodeCompletionInSearch.html" value="1658674006681" />
+        <entry key="CodeCompletionMiddle.html" value="1651296715342" />
+        <entry key="ColumnSelection.html" value="1646110028456" />
+        <entry key="Compare.html" value="1672505314219" />
+        <entry key="CompleteStatement.html" value="1677472229995" />
+        <entry key="ContextActions.html" value="1677254641513" />
+        <entry key="CopyWithNoSelection.html" value="1672505338667" />
+        <entry key="Copyright.html" value="1672505279498" />
+        <entry key="CtrlDotInLookups.html" value="1663309868473" />
+        <entry key="CtrlShiftI.html" value="1646110091380" />
+        <entry key="CtrlShiftIForLookup.html" value="1661228908459" />
+        <entry key="CtrlW.html" value="1658060379555" />
+        <entry key="DiffChevron.html" value="1675956427719" />
+        <entry key="DragToOpen.html" value="1663309605305" />
+        <entry key="EditorConfig.html" value="1660033402458" />
+        <entry key="EnterDirectoryInGotoFile.html" value="1677345864252" />
+        <entry key="ExcludeFromProject.html" value="1646110089056" />
+        <entry key="ExternalJavaDoc.html" value="1656937974075" />
+        <entry key="FindInPath.html" value="1658674025101" />
+        <entry key="FinishByExclamation.html" value="1675345837160" />
+        <entry key="FinishBySmartEnter.html" value="1672505304250" />
+        <entry key="FixDocComment.html" value="1667017322204" />
+        <entry key="GoToImplementation.html" value="1646110104353" />
+        <entry key="HideWidgets.html" value="1658060380528" />
+        <entry key="HierarchyBrowser.html" value="1646109965327" />
+        <entry key="HighlightImplements.html" value="1651567408641" />
+        <entry key="HighlightThrows.html" value="1658673970024" />
+        <entry key="HighlightUsagesInFile.html" value="1665670158217" />
+        <entry key="ImagesLookup.html" value="1672505284600" />
+        <entry key="InjectSQLLanguage.html" value="1658673965730" />
+        <entry key="IntroduceVariable.html" value="1650970734881" />
+        <entry key="JarDiff.html" value="1669604753464" />
+        <entry key="Kotlin.html" value="1675345835683" />
+        <entry key="Kotlin_Java_convert.html" value="1674011848337" />
+        <entry key="Kotlin_mix.html" value="1672505297898" />
+        <entry key="Kotlin_project.html" value="1646647045761" />
+        <entry key="LineEndings.html" value="1669604757624" />
+        <entry key="MoveInnerToUpper.html" value="1672505343548" />
+        <entry key="MoveUpDown.html" value="1672505292117" />
+        <entry key="Multicursor.html" value="1656476777562" />
+        <entry key="Multiselection1.html" value="1645847794550" />
+        <entry key="MultiselectionWords.html" value="1659008590654" />
+        <entry key="NavigateBetweenErrors.html" value="1646110099738" />
+        <entry key="NextPrevError.html" value="1675345838305" />
+        <entry key="OverrideImplementMethods.html" value="1646200757899" />
+        <entry key="PostfixCompletion.html" value="1672505327242" />
+        <entry key="QuickJavaDoc.html" value="1652075361927" />
+        <entry key="QuickJavaDocInLookups.html" value="1666707423258" />
+        <entry key="QuickSwitchScheme.html" value="1677075082972" />
+        <entry key="RecentChanges.html" value="1658673863940" />
+        <entry key="RecentSearch.html" value="1672505330868" />
+        <entry key="RemoveBreakpoint.html" value="1675345834079" />
+        <entry key="RichTextCopy.html" value="1672505271566" />
+        <entry key="RunTests.html" value="1658674003640" />
+        <entry key="SearchEverywhere.html" value="1648266221218" />
+        <entry key="SecondBasicClassNameCompletion.html" value="1654172750708" />
+        <entry key="SecondSmartCompletionChain.html" value="1672505344835" />
+        <entry key="SecondSmartCompletionToar.html" value="1662625706838" />
+        <entry key="SelectIn.html" value="1677165529690" />
+        <entry key="SmartTypeAfterNew.html" value="1672505261299" />
+        <entry key="SmartTypeCasting.html" value="1653297960168" />
+        <entry key="SmartTypeCompletion.html" value="1672505257850" />
+        <entry key="SpeedSearch.html" value="1654620881527" />
+        <entry key="SpellcheckerDictionaries.html" value="1656476801306" />
+        <entry key="Switcher.html" value="1646110078097" />
+        <entry key="TabInLookups.html" value="1662433662722" />
+        <entry key="VariableNameCompletion.html" value="1658918856408" />
+        <entry key="VcsQuickList.html" value="1669091163172" />
+        <entry key="WideScreen.html" value="1652847642633" />
+        <entry key="WildcardsInNavigationPopups.html" value="1669604775267" />
+        <entry key="YouTrack_integration.html" value="1672505329821" />
+        <entry key="find_usages.html" value="1672505316664" />
+        <entry key="jump_to_colors_fonts.html" value="1673706313197" />
+        <entry key="partial_git_commit.html" value="1646110058531" />
+        <entry key="pull_requests.html" value="1658674015443" />
+        <entry key="run_anything.html" value="1672505263333" />
+        <entry key="structural_search.html" value="1647489942107" />
+      </map>
+    </option>
+  </component>
+</application>

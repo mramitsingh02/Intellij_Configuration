@@ -1,0 +1,29 @@
+<application>
+  <component name="Trusted.Paths">
+    <option name="TRUSTED_PROJECT_PATHS">
+      <map>
+        <entry key="C:\Users\amit.singh5\AppData\Local\JetBrains\IdeaIC2021.3\demo\IdeaLearningProject" value="true" />
+        <entry key="C:\Users\amit.singh5\Desktop" value="true" />
+        <entry key="C:\Users\amit.singh5\IdeaProjects\CoreJava" value="true" />
+        <entry key="C:\Users\amit.singh5\IdeaProjects\SpringBoot4" value="true" />
+        <entry key="D:\IdeaProjects" value="true" />
+        <entry key="D:\IdeaProjects\CoreJava" value="true" />
+        <entry key="D:\IdeaProjects\Dairy\Milkbook" value="true" />
+        <entry key="D:\IdeaProjects\GenericKhatabookStore\khatapayment" value="true" />
+        <entry key="D:\IdeaProjects\Generickhatabook" value="true" />
+        <entry key="D:\IdeaProjects\Khatabook" value="true" />
+        <entry key="D:\IdeaProjects\Spring5Plus" value="true" />
+        <entry key="D:\IdeaProjects\com.dailykhatabook" value="true" />
+        <entry key="D:\IdeaProjects\khatabook" value="true" />
+      </map>
+    </option>
+  </component>
+  <component name="Trusted.Paths.Settings">
+    <option name="TRUSTED_PATHS">
+      <list>
+        <option value="C:\Users\amit.singh5\IdeaProjects" />
+        <option value="D:\IdeaProjects" />
+      </list>
+    </option>
+  </component>
+</application>
